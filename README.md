@@ -222,3 +222,5 @@ To Start Project in terminal:
 To Debug: 
 
 1. debugger; //breaks execution
+
+Using tutorial from code4startup to get up to speed in RN
