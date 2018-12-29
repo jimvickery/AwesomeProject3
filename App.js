@@ -5,7 +5,9 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>This is a work in progress</Text>
+        <Text>This is a work in progress 1</Text>
+        <Text>This is a work in progress 2</Text>
+        <Text>This is a work in progress 3</Text>
       </View>
     );
   }
