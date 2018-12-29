@@ -222,7 +222,3 @@ To Start Project in terminal:
 To Debug: 
 
 1. debugger; //breaks execution
-
-TODO: Will be adding SillySnap Features using tutorial from code4startup.com
-Using the tutorial from code4startup.com
-
